@@ -24,14 +24,16 @@ All data are demo. Data alignment is not correct.
 Creator
 
 [Atikur Rahman](https://arahmandc.github.io/)
+
 M.S. in GIS for Environment and Development (MSGED)
+
 [Jahangirnagar University](https://juniv.edu/)
 
 President (2019- )
 [YouthMappers at IRS, Jahangirnagar University](https://www.facebook.com/Youth-Mappers-Jahangirnagar-University-111817063592362/)
 
 Manager(Field Operations)
-[bangladesh open innovation lab](http://boiledbhoot.org/)
+[Bangladesh open innovation lab](http://boiledbhoot.org/)
 
 Email:  arahman@boiledbhoot.org
     or  arahman@geography-juniv.edu.bd
