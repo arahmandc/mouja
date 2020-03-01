@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <title>Mouza Map | DEMO</title>
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="css/leaflet-search.css">
+        <style>
+           html, body,#map {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        </style>
+    </head>
+    <body>
+        <div id="map"></div>
+        
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="js/leaflet-search.js"></script>
+        <script src="data/Merged_1.js"></script>
+        <script>
+        var highlightLayer;
+        function highlightFeature(e) {
+            highlightLayer = e.target;
+
+            if (e.target.feature.geometry.type === 'LineString') {
+              highlightLayer.setStyle({
+                color: 'red',
+              });
+            } else {
+              highlightLayer.setStyle({
+                fillColor: 'red',
+                fillOpacity: 1
+              });
+            }
+        }
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:19, minZoom:1
+        })
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://arahmandc.github.io/" target="_blank" title="He is the Map Creator">Atikur Rahman</a> &middot; <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+            if (bounds_group.getLayers().length) {
+                map.fitBounds(bounds_group.getBounds());
+            }
+            map.setMaxBounds(map.getBounds());
+        }
+        var layer_GoogleSatellite_0 = L.tileLayer('Tiles/mouja%20map/Tiles//{z}/{x}/{y}.png', {
+            opacity: 1.0,
+            attribution: '',
+        });
+        layer_GoogleSatellite_0;
+        map.addLayer(layer_GoogleSatellite_0);
+        function pop_Merged_1(feature, layer) {
+            layer.on({
+                mouseout: function(e) {
+                    for (i in e.target._eventParents) {
+                        e.target._eventParents[i].resetStyle(e.target);
+                    }
+                },
+                mouseover: highlightFeature,
+            });
+            var popupContent = '<table>\
+            <tr>\
+            <a href="http://www.openstreetmap.org/edit?editor=id&node=" target="_blank" title="This link open openstreetmap"> Modify the Map: Demo</a></td>\
+            </tr>\
+                    <tr>\
+                        <td><strong>Name :</strong>' + (feature.properties['name'] !== null ? Autolinker.link(String(feature.properties['name'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td> <strong>Land Number : </strong>' + (feature.properties['number'] !== null ? Autolinker.link(String(feature.properties['number'])) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {width: 400} );
+        }
+
+        function style_Merged_1_0() {
+            return {
+                pane: 'pane_Merged_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(229,182,54,0.0)',
+            }
+        }
+        map.createPane('pane_Merged_1');
+        map.getPane('pane_Merged_1').style.zIndex = 401;
+        map.getPane('pane_Merged_1').style['mix-blend-mode'] = 'normal';
+
+        var layer_Merged_1 = new L.geoJson(json_Merged_1, {
+            attribution: '',
+            pane: 'pane_Merged_1',
+            onEachFeature: pop_Merged_1,
+            style: style_Merged_1_0,
+        });
+        bounds_group.addLayer(layer_Merged_1);
+        map.addLayer(layer_Merged_1);
+        setBounds();
+        map.addControl(new L.Control.Search({
+            layer: layer_Merged_1,
+            initial: false,
+            hideMarkerOnCollapse: true,
+            propertyName: 'number'}));
+        document.getElementsByClassName('search-button')[0].className +=
+         ' fa fa-binoculars';
+
+
+// control that shows state info on hover
+  var info = L.control();
+
+  info.onAdd = function (map) {
+
+    this._div = L.DomUtil.create('div', 'info');
+    this.update();
+    return this._div;
+  };
+
+  info.update = function (props) {
+    this._div.innerHTML = '<h2>Rajshingpur Mouja Map</h2><h4 style= "color:red"> DEMO</h4>'+ '<h4><a href="http://birampur.dinajpur.gov.bd/" target="_blank">Birampur Upazila</a> </h4>' + '<h4><a href="http://www.dinajpur.gov.bd/" target="_blank">Dinajpur District</a> </h4>'+ '<h4>G L Number : 231</h4>'  ;
+  };
+
+  info.addTo(map);
+        </script>
+    </body>
+</html>
