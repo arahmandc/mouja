@@ -1,4 +1,4 @@
-# mouja
+# Mouja Map
 
 https://arahmandc.github.io/mouja/
 
@@ -21,12 +21,10 @@ This is a research for digital land management system project for Bangladesh. Th
 NOTE:
 All data are demo. Data alignment is not correct. 
 
-Creator
+# Creator
 
 [Atikur Rahman](https://arahmandc.github.io/)
-
 M.S. in GIS for Environment and Development (MSGED)
-
 [Jahangirnagar University](https://juniv.edu/)
 
 President (2019- )
