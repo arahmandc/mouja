@@ -34,7 +34,7 @@ Manager(Field Operations)
 [Bangladesh open innovation lab](http://boiledbhoot.org/)
 
 Email:  arahman@boiledbhoot.org
-    or  arahman@geography-juniv.edu.bd
+    or  rahman_9@geography-juniv.edu.bd
     or  arahman.dcc2@gmail.com
 
 
