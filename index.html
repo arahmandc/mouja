@@ -4,12 +4,14 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
-        <title>Mouza Map | DEMO</title>
+        <title>Property Map</title>
         <meta name="mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <link rel="stylesheet" href="css/leaflet.css">
         <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
         <link rel="stylesheet" href="css/leaflet-search.css">
+        <link rel="stylesheet" href="css/leaflet-compass.css"/>
+        <link rel="stylesheet" href="css/easy-button.css"/>
         <style>
            html, body,#map {
             width: 100%;
@@ -33,6 +35,10 @@
         <script src="js/labels.js"></script>
         <script src="js/leaflet-search.js"></script>
         <script src="data/Merged_1.js"></script>
+
+        <script src="js/leaflet-compass.js"></script>
+        <script src="js/easy-button.js"></script>
+        <script src="js/L.Control.Locate.min.js"></script>
         <script>
         var highlightLayer;
         function highlightFeature(e) {
@@ -40,17 +46,17 @@
 
             if (e.target.feature.geometry.type === 'LineString') {
               highlightLayer.setStyle({
-                color: 'red',
+                color: 'yellow',
               });
             } else {
               highlightLayer.setStyle({
-                fillColor: 'red',
+                fillColor: 'yellow',
                 fillOpacity: 1
               });
             }
         }
         var map = L.map('map', {
-            zoomControl:true, maxZoom:21, minZoom:1
+            zoomControl:true, maxZoom:19, minZoom:15
         })
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://arahmandc.github.io/" target="_blank" title="He is the Map Creator">Atikur Rahman</a> &middot; <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
@@ -62,8 +68,8 @@
             map.setMaxBounds(map.getBounds());
         }
         var layer_GoogleSatellite_0 = L.tileLayer('Tiles/{z}/{x}/{y}.png', {
-            minZoom:12,
-            maxZoom:21,
+            minZoom:10,
+            maxZoom:19,
             opacity: 1.0,
             attribution: '',
         });
@@ -80,13 +86,46 @@
             });
             var popupContent = '<table>\
             <tr>\
-            <a href="http://www.openstreetmap.org/edit?editor=id&node=" target="_blank" title="This link open openstreetmap"> Modify the Map: Demo</a></td>\
+            <td><h2> দাগ :' +(feature.properties['addr:housenumber'] !== null ? Autolinker.link(String(feature.properties['addr:housenumber'])) : '')+ '</h2></td>\
             </tr>\
                     <tr>\
-                        <td><strong>Name :</strong>' + (feature.properties['name'] !== null ? Autolinker.link(String(feature.properties['name'])) : '') + '</td>\
+                        <td><strong>মৌজা :</strong>' + (feature.properties['মৌজা'] !== null ? Autolinker.link(String(feature.properties['মৌজা'])) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td> <strong>Land Number : </strong>' + (feature.properties['number'] !== null ? Autolinker.link(String(feature.properties['number'])) : '') + '</td>\
+                        <td><strong>খতিয়ান :</strong>' + (feature.properties['খতিয়ান'] !== null ? Autolinker.link(String(feature.properties['খতিয়ান'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td><strong>জরিপের নাম :</strong>' + (feature.properties['জরিপের নাম'] !== null ? Autolinker.link(String(feature.properties['জরিপের নাম'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td><strong>জে,এল :</strong>' + (feature.properties['জে,এল'] !== null ? Autolinker.link(String(feature.properties['জে,এল'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td><strong>সিট :</strong>' + (feature.properties['সিট'] !== null ? Autolinker.link(String(feature.properties['সিট'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td><strong>দাগ নম্বর :</strong>' + (feature.properties['দাগ'] !== null ? Autolinker.link(String(feature.properties['দাগ'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td><strong>জমির শ্রেনী :</strong>' + (feature.properties['জমির শ্রেনী'] !== null ? Autolinker.link(String(feature.properties['জমির শ্রেনী'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td><strong>কৃষি :</strong>' + (feature.properties['কৃষি'] !== null ? Autolinker.link(String(feature.properties['কৃষি'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td><strong>অকৃষি :</strong>' + (feature.properties['অকৃষি'] !== null ? Autolinker.link(String(feature.properties['অকৃষি'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td><strong>স্থানীয় নাম :</strong>' + (feature.properties['স্থানীয় নাম'] !== null ? Autolinker.link(String(feature.properties['স্থানীয় নাম'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td><strong>সাবেক খতিয়ান :</strong>' + (feature.properties['সাবেক খতিয়ান'] !== null ? Autolinker.link(String(feature.properties['সাবেক খতিয়ান'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td><strong>সাবেক দাগ :</strong>' + (feature.properties['সাবেক দাগ'] !== null ? Autolinker.link(String(feature.properties['সাবেক দাগ'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td> <strong>জমির পরিমাণ : </strong>' + (feature.properties['জমির পরিমাণ'] !== null ? Autolinker.link(String(feature.properties['জমির পরিমাণ'])) : '') + '</td>\
                     </tr>\
                 </table>';
             layer.bindPopup(popupContent, {width: 400} );
@@ -119,14 +158,18 @@
         bounds_group.addLayer(layer_Merged_1);
         map.addLayer(layer_Merged_1);
         setBounds();
-        map.addControl(new L.Control.Search({
-            layer: layer_Merged_1,
-            initial: false,
-            hideMarkerOnCollapse: true,
-            propertyName: 'number'}));
-        document.getElementsByClassName('search-button')[0].className +=
-         ' fa fa-binoculars';
+        // map.addControl(new L.Control.Search({
+        //     layer: layer_Merged_1,
+        //     initial: false,
+        //     hideMarkerOnCollapse: true,
+        //     propertyName: 'সাবেক দাগ'}));
+        // document.getElementsByClassName('search-button')[0].className +=
+        //  ' fa fa-binoculars
 
+
+map.addControl( new L.Control.Compass({position: "topleft", title: "Compass"}) );
+
+L.control.locate().addTo(map);
 
 // control that shows state info on hover
   var info = L.control();
@@ -139,7 +182,7 @@
   };
 
   info.update = function (props) {
-    this._div.innerHTML = '<h2>Rajshingpur Mouja Map</h2><h4 style= "color:red"> DEMO</h4>'+ '<h4><a href="http://birampur.dinajpur.gov.bd/" target="_blank">Birampur Upazila</a> </h4>' + '<h4><a href="http://www.dinajpur.gov.bd/" target="_blank">Dinajpur District</a> </h4>'+ '<h4>G L Number : 231</h4>'+ '<a href="https://github.com/arahmandc/mouja/blob/master/README.md" target="_blank">About this Map</a>'  ;
+    this._div.innerHTML = '<h2>Land Property Map</h2>';
   };
 
   info.addTo(map);
