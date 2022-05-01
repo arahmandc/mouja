@@ -1,0 +1,1022 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-101760' action='modify' visible='true' lat='25.39043659824' lon='88.98131042451' />
+  <node id='-101761' action='modify' visible='true' lat='25.39079885505' lon='88.98132383555' />
+  <node id='-101762' action='modify' visible='true' lat='25.39130528581' lon='88.98136138648' />
+  <node id='-101764' action='modify' visible='true' lat='25.39088487573' lon='88.9818146798' />
+  <node id='-101765' action='modify' visible='true' lat='25.39089699132' lon='88.98161083192' />
+  <node id='-101766' action='modify' visible='true' lat='25.39044871387' lon='88.98155517608' />
+  <node id='-101768' action='modify' visible='true' lat='25.39150155745' lon='88.98242085904' />
+  <node id='-101769' action='modify' visible='true' lat='25.39138524837' lon='88.98237794369' />
+  <node id='-101770' action='modify' visible='true' lat='25.3911187063' lon='88.98229747742' />
+  <node id='-101771' action='modify' visible='true' lat='25.39113664061' lon='88.98183774189' />
+  <node id='-101772' action='modify' visible='true' lat='25.39128797774' lon='88.98184649717' />
+  <node id='-101773' action='modify' visible='true' lat='25.39140947944' lon='88.98194074363' />
+  <node id='-101774' action='modify' visible='true' lat='25.3914749033' lon='88.98207217187' />
+  <node id='-101775' action='modify' visible='true' lat='25.39150640366' lon='88.98217677802' />
+  <node id='-101776' action='modify' visible='true' lat='25.39151367298' lon='88.98227065533' />
+  <node id='-101777' action='modify' visible='true' lat='25.39150640366' lon='88.98235380381' />
+  <node id='-101781' action='modify' visible='true' lat='25.39035905697' lon='88.98215666279' />
+  <node id='-101782' action='modify' visible='true' lat='25.3903614801' lon='88.98235916957' />
+  <node id='-101783' action='modify' visible='true' lat='25.39042811609' lon='88.98227467999' />
+  <node id='-101784' action='modify' visible='true' lat='25.39048384798' lon='88.98219957814' />
+  <node id='-101785' action='modify' visible='true' lat='25.39052443532' lon='88.98219890758' />
+  <node id='-101794' action='modify' visible='true' lat='25.39018580444' lon='88.98207351297' />
+  <node id='-101795' action='modify' visible='true' lat='25.3899580299' lon='88.98202791542' />
+  <node id='-101796' action='modify' visible='true' lat='25.38981748795' lon='88.98199438781' />
+  <node id='-101797' action='modify' visible='true' lat='25.38970844667' lon='88.9819635424' />
+  <node id='-101798' action='modify' visible='true' lat='25.38933043613' lon='88.98187100619' />
+  <node id='-101799' action='modify' visible='true' lat='25.38970602353' lon='88.98132651776' />
+  <node id='-101800' action='modify' visible='true' lat='25.38989745149' lon='88.98137747973' />
+  <node id='-101801' action='modify' visible='true' lat='25.39002587768' lon='88.98141234845' />
+  <node id='-101802' action='modify' visible='true' lat='25.39012522614' lon='88.98139089078' />
+  <node id='-101803' action='modify' visible='true' lat='25.39019186226' lon='88.98135333985' />
+  <node id='-101804' action='modify' visible='true' lat='25.39022457453' lon='88.98133188218' />
+  <node id='-101805' action='modify' visible='true' lat='25.39020276635' lon='88.98184150189' />
+  <node id='-101840' action='modify' visible='true' lat='25.39032270945' lon='88.98129701547' />
+  <node id='-101841' action='modify' visible='true' lat='25.39030817068' lon='88.98208759658' />
+  <node id='-101842' action='modify' visible='true' lat='25.39032392162' lon='88.98172885045' />
+  <node id='-101843' action='modify' visible='true' lat='25.39032876788' lon='88.9814445363' />
+  <node id='-101888' action='modify' visible='true' lat='25.39048748267' lon='88.98232295975' />
+  <node id='-101894' action='modify' visible='true' lat='25.39049475204' lon='88.98243293032' />
+  <node id='-101905' action='modify' visible='true' lat='25.39048869423' lon='88.98248925671' />
+  <node id='-101935' action='modify' visible='true' lat='25.39049717517' lon='88.98237258062' />
+  <node id='-101950' action='modify' visible='true' lat='25.3903614801' lon='88.98249596223' />
+  <node id='-101971' action='modify' visible='true' lat='25.38904450429' lon='88.97861480445' />
+  <node id='-101972' action='modify' visible='true' lat='25.38883853603' lon='88.97934704751' />
+  <node id='-101973' action='modify' visible='true' lat='25.38861560527' lon='88.97929072112' />
+  <node id='-101974' action='modify' visible='true' lat='25.3888288434' lon='88.97853702039' />
+  <node id='-101976' action='modify' visible='true' lat='25.38719441082' lon='88.97906809911' />
+  <node id='-101977' action='modify' visible='true' lat='25.38702963371' lon='88.97901579604' />
+  <node id='-101978' action='modify' visible='true' lat='25.38701872934' lon='88.97900774941' />
+  <node id='-101979' action='modify' visible='true' lat='25.38701630614' lon='88.97897019848' />
+  <node id='-101980' action='modify' visible='true' lat='25.38672188763' lon='88.97889107332' />
+  <node id='-101981' action='modify' visible='true' lat='25.38668917441' lon='88.97908821568' />
+  <node id='-101982' action='modify' visible='true' lat='25.38678610242' lon='88.97914051875' />
+  <node id='-101983' action='modify' visible='true' lat='25.38685274039' lon='88.97917538747' />
+  <node id='-101984' action='modify' visible='true' lat='25.38694966827' lon='88.97924914822' />
+  <node id='-101985' action='modify' visible='true' lat='25.38696784224' lon='88.97925987706' />
+  <node id='-101986' action='modify' visible='true' lat='25.38712656145' lon='88.97933095559' />
+  <node id='-101987' action='modify' visible='true' lat='25.38670492522' lon='88.97953212127' />
+  <node id='-101988' action='modify' visible='true' lat='25.38656074468' lon='88.97952273354' />
+  <node id='-101989' action='modify' visible='true' lat='25.38653408943' lon='88.97979229555' />
+  <node id='-101990' action='modify' visible='true' lat='25.38685274039' lon='88.97984459862' />
+  <node id='-101991' action='modify' visible='true' lat='25.38689635794' lon='88.97985130414' />
+  <node id='-101992' action='modify' visible='true' lat='25.38700661336' lon='88.97991031274' />
+  <node id='-101993' action='modify' visible='true' lat='25.38712777305' lon='88.9799277471' />
+  <node id='-101994' action='modify' visible='true' lat='25.38725499059' lon='88.97939532861' />
+  <node id='-101995' action='modify' visible='true' lat='25.38717866008' lon='88.97935777768' />
+  <node id='-102002' action='modify' visible='true' lat='25.3870288336' lon='88.97991351014' />
+  <node id='-102003' action='modify' visible='true' lat='25.38699570838' lon='88.97994786434' />
+  <node id='-102004' action='modify' visible='true' lat='25.38696541844' lon='88.98002363674' />
+  <node id='-102005' action='modify' visible='true' lat='25.38695693786' lon='88.98009136185' />
+  <node id='-102006' action='modify' visible='true' lat='25.38700419017' lon='88.98022279009' />
+  <node id='-102007' action='modify' visible='true' lat='25.38725499059' lon='88.98019730911' />
+  <node id='-102008' action='modify' visible='true' lat='25.38732162829' lon='88.98018523917' />
+  <node id='-102009' action='modify' visible='true' lat='25.38732768626' lon='88.97997334465' />
+  <node id='-102010' action='modify' visible='true' lat='25.38723681666' lon='88.97996529803' />
+  <node id='-102011' action='modify' visible='true' lat='25.38718350646' lon='88.97995188698' />
+  <node id='-102021' action='modify' visible='true' lat='25.38693876389' lon='88.9802241312' />
+  <node id='-102031' action='modify' visible='true' lat='25.3906359324' lon='88.97509804862' />
+  <node id='-102032' action='modify' visible='true' lat='25.39046927909' lon='88.97506701928' />
+  <node id='-102033' action='modify' visible='true' lat='25.39046065371' lon='88.97512378077' />
+  <node id='-102034' action='modify' visible='true' lat='25.39035882295' lon='88.97510482082' />
+  <node id='-102035' action='modify' visible='true' lat='25.39033739' lon='88.97524579185' />
+  <node id='-102036' action='modify' visible='true' lat='25.39060587412' lon='88.97529041672' />
+  <node id='-102037' action='modify' visible='true' lat='25.39055051311' lon='88.97508214431' />
+  <node id='-102038' action='modify' visible='true' lat='25.39053880751' lon='88.97528061173' />
+  <node id='-102067' action='modify' visible='true' lat='25.39004768467' lon='88.9751963304' />
+  <node id='-102068' action='modify' visible='true' lat='25.39006101191' lon='88.97502466902' />
+  <node id='-102069' action='modify' visible='true' lat='25.39003678057' lon='88.97528081998' />
+  <node id='-102070' action='modify' visible='true' lat='25.38987200734' lon='88.97525936231' />
+  <node id='-102071' action='modify' visible='true' lat='25.38989745028' lon='88.97497773036' />
+  <node id='-102072' action='modify' visible='true' lat='25.39032513318' lon='88.97531166539' />
+  <node id='-102073' action='modify' visible='true' lat='25.39022941958' lon='88.97529758379' />
+  <node id='-102074' action='modify' visible='true' lat='25.39023973761' lon='88.97523073332' />
+  <node id='-102127' action='modify' visible='true' lat='25.39036814491' lon='88.98154981166' />
+  <node id='-102132' action='modify' visible='true' lat='25.39036329684' lon='88.98130305044' />
+  <node id='-102162' action='modify' visible='true' lat='25.39046749128' lon='88.98155718975' />
+  <node id='-102178' action='modify' visible='true' lat='25.39078210231' lon='88.97437815028' />
+  <node id='-102179' action='modify' visible='true' lat='25.39077809408' lon='88.97448194047' />
+  <node id='-102180' action='modify' visible='true' lat='25.39072897884' lon='88.97447961641' />
+  <node id='-102181' action='modify' visible='true' lat='25.39073298707' lon='88.97437582621' />
+  <node id='-102185' action='modify' visible='true' lat='25.38996118828' lon='88.98938451704' />
+  <node id='-102186' action='modify' visible='true' lat='25.38995381658' lon='88.9895245634' />
+  <node id='-102187' action='modify' visible='true' lat='25.38965759742' lon='88.98950545878' />
+  <node id='-102188' action='modify' visible='true' lat='25.38966397409' lon='88.98938431613' />
+  <node id='-102189' action='modify' visible='true' lat='25.38995058976' lon='88.98940280138' />
+  <node id='-102190' action='modify' visible='true' lat='25.38995158481' lon='88.98938389767' />
+  <node id='-102191' action='modify' visible='true' lat='25.38996772123' lon='88.99061769113' />
+  <node id='-102192' action='modify' visible='true' lat='25.38990471969' lon='88.99057477579' />
+  <node id='-102193' action='modify' visible='true' lat='25.38996772123' lon='88.99047553405' />
+  <node id='-102194' action='modify' visible='true' lat='25.38998347161' lon='88.99037629232' />
+  <node id='-102195' action='modify' visible='true' lat='25.39006706974' lon='88.99038702115' />
+  <node id='-102196' action='modify' visible='true' lat='25.3900540454' lon='88.99046514049' />
+  <node id='-102197' action='modify' visible='true' lat='25.39003678057' lon='88.99050235614' />
+  <node id='-102209' action='modify' visible='true' lat='25.39433897969' lon='89.00322407216' />
+  <node id='-102210' action='modify' visible='true' lat='25.39471697454' lon='89.00321334332' />
+  <node id='-102211' action='modify' visible='true' lat='25.39473635886' lon='89.00272786349' />
+  <node id='-102212' action='modify' visible='true' lat='25.39478239661' lon='89.00227993459' />
+  <node id='-102213' action='modify' visible='true' lat='25.39456916901' lon='89.00228798121' />
+  <node id='-102214' action='modify' visible='true' lat='25.39426871129' lon='89.00231614441' />
+  <node id='-102215' action='modify' visible='true' lat='25.39404942514' lon='89.00277346104' />
+  <node id='-102225' action='modify' visible='true' lat='25.39403488682' lon='89.00260582298' />
+  <node id='-102231' action='modify' visible='true' lat='25.39427355617' lon='89.00245562062' />
+  <node id='-102240' action='modify' visible='true' lat='25.39402398186' lon='89.00246366724' />
+  <node id='-102241' action='modify' visible='true' lat='25.39431100687' lon='89.0027570213' />
+  <node id='-102243' action='modify' visible='true' lat='25.39410878873' lon='89.00296658143' />
+  <node id='-102244' action='modify' visible='true' lat='25.39411848094' lon='89.00323480234' />
+  <node id='-102281' action='modify' visible='true' lat='25.39067891061' lon='89.00512173504' />
+  <node id='-102282' action='modify' visible='true' lat='25.39071162274' lon='89.00521024793' />
+  <node id='-102283' action='modify' visible='true' lat='25.39064135222' lon='89.00529741973' />
+  <node id='-102284' action='modify' visible='true' lat='25.39061590944' lon='89.00512441725' />
+  <node id='-102286' action='modify' visible='true' lat='25.39074523309' lon='89.00598901671' />
+  <node id='-102287' action='modify' visible='true' lat='25.39075547163' lon='89.00654566431' />
+  <node id='-102288' action='modify' visible='true' lat='25.39043327689' lon='89.00661882061' />
+  <node id='-102289' action='modify' visible='true' lat='25.39041092269' lon='89.00600316441' />
+  <node id='-102291' action='modify' visible='true' lat='25.39210847099' lon='89.00745246527' />
+  <node id='-102292' action='modify' visible='true' lat='25.39176177194' lon='89.00753175261' />
+  <node id='-102293' action='modify' visible='true' lat='25.39183184979' lon='89.00773454943' />
+  <node id='-102294' action='modify' visible='true' lat='25.3920672518' lon='89.00767141678' />
+  <node id='-102295' action='modify' visible='true' lat='25.39211886215' lon='89.00764261119' />
+  <node id='-102296' action='modify' visible='true' lat='25.39212335798' lon='89.00759728602' />
+  <node id='-102342' action='modify' visible='true' lat='25.39063165852' lon='89.00520488486' />
+  <node id='-102349' action='modify' visible='true' lat='25.39058683076' lon='89.00520890817' />
+  <node id='-102354' action='modify' visible='true' lat='25.39059288856' lon='89.00529876217' />
+  <node id='-102363' action='modify' visible='true' lat='25.39072373713' lon='89.00528937444' />
+  <node id='-102370' action='modify' visible='true' lat='25.38972298551' lon='89.00616645545' />
+  <node id='-102371' action='modify' visible='true' lat='25.38939343797' lon='89.00613695115' />
+  <node id='-102372' action='modify' visible='true' lat='25.38935709076' lon='89.00646686286' />
+  <node id='-102373' action='modify' visible='true' lat='25.38972056237' lon='89.00648832053' />
+  <node id='-102381' action='modify' visible='true' lat='25.38953155727' lon='89.00648295611' />
+  <node id='-102382' action='modify' visible='true' lat='25.38866649168' lon='89.0060913536' />
+  <node id='-102383' action='modify' visible='true' lat='25.38864226006' lon='89.00637834996' />
+  <node id='-102384' action='modify' visible='true' lat='25.38900573382' lon='89.00641053647' />
+  <node id='-102385' action='modify' visible='true' lat='25.38902754222' lon='89.00612085789' />
+  <node id='-102386' action='modify' visible='true' lat='25.39002587768' lon='89.00487899512' />
+  <node id='-102387' action='modify' visible='true' lat='25.38972056237' lon='89.00486290187' />
+  <node id='-102388' action='modify' visible='true' lat='25.38972540865' lon='89.00510161847' />
+  <node id='-102389' action='modify' visible='true' lat='25.38987079698' lon='89.00516599149' />
+  <node id='-102390' action='modify' visible='true' lat='25.38998953066' lon='89.00519549578' />
+  <node id='-102391' action='modify' visible='true' lat='25.39002103141' lon='89.00497287244' />
+  <node id='-102394' action='modify' visible='true' lat='25.39165178864' lon='89.00574937329' />
+  <node id='-102395' action='modify' visible='true' lat='25.39165542329' lon='89.00595188007' />
+  <node id='-102396' action='modify' visible='true' lat='25.39156213384' lon='89.0059626089' />
+  <node id='-102397' action='modify' visible='true' lat='25.39154517212' lon='89.0059626089' />
+  <node id='-102398' action='modify' visible='true' lat='25.39154032591' lon='89.00574937329' />
+  <node id='-102399' action='modify' visible='true' lat='25.39145794035' lon='89.00576948985' />
+  <node id='-102400' action='modify' visible='true' lat='25.39140220891' lon='89.0057829009' />
+  <node id='-102401' action='modify' visible='true' lat='25.39132709258' lon='89.00578558311' />
+  <node id='-102402' action='modify' visible='true' lat='25.39130043838' lon='89.00577485427' />
+  <node id='-102403' action='modify' visible='true' lat='25.39125561086' lon='89.00584459171' />
+  <node id='-102404' action='modify' visible='true' lat='25.39124712998' lon='89.00591432914' />
+  <node id='-102405' action='modify' visible='true' lat='25.39125561086' lon='89.00598808989' />
+  <node id='-102406' action='modify' visible='true' lat='25.39135859298' lon='89.00596931443' />
+  <node id='-102407' action='modify' visible='true' lat='25.39149307537' lon='89.00596395001' />
+  <node id='-102408' action='modify' visible='true' lat='25.39166875035' lon='89.00610610709' />
+  <node id='-102409' action='modify' visible='true' lat='25.39156334539' lon='89.00611415371' />
+  <node id='-102410' action='modify' visible='true' lat='25.39140826667' lon='89.00613829359' />
+  <node id='-102411' action='modify' visible='true' lat='25.39134647744' lon='89.00615975127' />
+  <node id='-102412' action='modify' visible='true' lat='25.39127741885' lon='89.00616243348' />
+  <node id='-102413' action='modify' visible='true' lat='25.39136828541' lon='89.00633275375' />
+  <node id='-102414' action='modify' visible='true' lat='25.39138282405' lon='89.00655940041' />
+  <node id='-102415' action='modify' visible='true' lat='25.39139130493' lon='89.00662913784' />
+  <node id='-102416' action='modify' visible='true' lat='25.39151124866' lon='89.0065875636' />
+  <node id='-102417' action='modify' visible='true' lat='25.39166390415' lon='89.00657683477' />
+  <node id='-102418' action='modify' visible='true' lat='25.39167601965' lon='89.00651380286' />
+  <node id='-102419' action='modify' visible='true' lat='25.39168450051' lon='89.00628447399' />
+  <node id='-102420' action='modify' visible='true' lat='25.3916748081' lon='89.00614499912' />
+  <node id='-102423' action='modify' visible='true' lat='25.39141674876' lon='89.00709718198' />
+  <node id='-102424' action='modify' visible='true' lat='25.39165663605' lon='89.00707304209' />
+  <node id='-102425' action='modify' visible='true' lat='25.39163482814' lon='89.00692015618' />
+  <node id='-102426' action='modify' visible='true' lat='25.39164452054' lon='89.0067779991' />
+  <node id='-102442' action='modify' visible='true' lat='25.39212187066' lon='89.00702744454' />
+  <node id='-102443' action='modify' visible='true' lat='25.3919958698' lon='89.00703280896' />
+  <node id='-102444' action='modify' visible='true' lat='25.39185048402' lon='89.00706499547' />
+  <node id='-102445' action='modify' visible='true' lat='25.39176809867' lon='89.00709718198' />
+  <node id='-102446' action='modify' visible='true' lat='25.39173175218' lon='89.00712936848' />
+  <node id='-102447' action='modify' visible='true' lat='25.39171963668' lon='89.00718301266' />
+  <node id='-102448' action='modify' visible='true' lat='25.39185775332' lon='89.00715216726' />
+  <node id='-102449' action='modify' visible='true' lat='25.39202615848' lon='89.00711059302' />
+  <node id='-102450' action='modify' visible='true' lat='25.39208310118' lon='89.00709986418' />
+  <node id='-102451' action='modify' visible='true' lat='25.39212187066' lon='89.00708913535' />
+  <node id='-102454' action='modify' visible='true' lat='25.39208310118' lon='89.00656342238' />
+  <node id='-102455' action='modify' visible='true' lat='25.39175840628' lon='89.00691479176' />
+  <node id='-102456' action='modify' visible='true' lat='25.39210854365' lon='89.00678336352' />
+  <node id='-102460' action='modify' visible='true' lat='25.39205644715' lon='89.00635689229' />
+  <node id='-102465' action='modify' visible='true' lat='25.39187474899' lon='89.0065700887' />
+  <node id='-102479' action='modify' visible='true' lat='25.39249744937' lon='89.00646149844' />
+  <node id='-102480' action='modify' visible='true' lat='25.39207384496' lon='89.00649170011' />
+  <node id='-102481' action='modify' visible='true' lat='25.39203979041' lon='89.0062539471' />
+  <node id='-102482' action='modify' visible='true' lat='25.39247806469' lon='89.00622278184' />
+  <node id='-102483' action='modify' visible='true' lat='25.39294245814' lon='89.00646260403' />
+  <node id='-102484' action='modify' visible='true' lat='25.39282977215' lon='89.00646069964' />
+  <node id='-102485' action='modify' visible='true' lat='25.39282539937' lon='89.00675980195' />
+  <node id='-102486' action='modify' visible='true' lat='25.39293926666' lon='89.00675633366' />
+  <node id='-102487' action='modify' visible='true' lat='25.39294599178' lon='89.00665972583' />
+  <node id='-102488' action='modify' visible='true' lat='25.3929684968' lon='89.0065683736' />
+  <node id='-102490' action='modify' visible='true' lat='25.39241021829' lon='89.00677531689' />
+  <node id='-102491' action='modify' visible='true' lat='25.39240030468' lon='89.00646842456' />
+  <node id='-102495' action='modify' visible='true' lat='25.3924077952' lon='89.00703549117' />
+  <node id='-102496' action='modify' visible='true' lat='25.39212671684' lon='89.00705963239' />
+  <node id='-102583' action='modify' visible='true' lat='25.39410273049' lon='89.00277346306' />
+  <node id='-102679' action='modify' visible='true' lat='25.39401550117' lon='89.00232151017' />
+  <way id='-101799' action='modify' visible='true'>
+    <nd ref='-101760' />
+    <nd ref='-101761' />
+    <nd ref='-101762' />
+    <nd ref='-101772' />
+    <nd ref='-101771' />
+    <nd ref='-101764' />
+    <nd ref='-101765' />
+    <nd ref='-102162' />
+    <nd ref='-101766' />
+    <nd ref='-101760' />
+    <tag k='addr:housenumber' v='৩৮' />
+    <tag k='landuse' v='farmland' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='মৌজা' v='রাজসিংহপুর' />
+    <tag k='সাবেক দাগ' v='৩৮' />
+  </way>
+  <way id='-101806' action='modify' visible='true'>
+    <nd ref='-101768' />
+    <nd ref='-101769' />
+    <nd ref='-101770' />
+    <nd ref='-101771' />
+    <nd ref='-101772' />
+    <nd ref='-101773' />
+    <nd ref='-101774' />
+    <nd ref='-101775' />
+    <nd ref='-101776' />
+    <nd ref='-101777' />
+    <nd ref='-101768' />
+    <tag k='addr:housenumber' v='৪১' />
+    <tag k='landuse' v='farmland' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='মৌজা' v='রাজসিংহপুর' />
+    <tag k='সাবেক দাগ' v='৪১' />
+  </way>
+  <way id='-101825' action='modify' visible='true'>
+    <nd ref='-102162' />
+    <nd ref='-101766' />
+    <nd ref='-102127' />
+    <nd ref='-101781' />
+    <nd ref='-101782' />
+    <nd ref='-101950' />
+    <nd ref='-101905' />
+    <nd ref='-101894' />
+    <nd ref='-101935' />
+    <nd ref='-101888' />
+    <nd ref='-101783' />
+    <nd ref='-101784' />
+    <nd ref='-101785' />
+    <nd ref='-102162' />
+    <tag k='addr:housenumber' v='৫৭৭' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৩০৫' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='দাগ' v='৫৯২' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক দাগ' v='৫৭৭' />
+  </way>
+  <way id='-101842' action='modify' visible='true'>
+    <nd ref='-101794' />
+    <nd ref='-101795' />
+    <nd ref='-101796' />
+    <nd ref='-101797' />
+    <nd ref='-101798' />
+    <nd ref='-101799' />
+    <nd ref='-101800' />
+    <nd ref='-101801' />
+    <nd ref='-101802' />
+    <nd ref='-101803' />
+    <nd ref='-101804' />
+    <nd ref='-101805' />
+    <nd ref='-101794' />
+    <tag k='addr:housenumber' v='৫৫২' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৫৯' />
+    <tag k='জমির পরিমাণ' v='১১৫০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='দাগ' v='৫৭৫' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক খতিয়ান' v='৮৩' />
+    <tag k='সাবেক দাগ' v='৫৫২' />
+  </way>
+  <way id='-101888' action='modify' visible='true'>
+    <nd ref='-101840' />
+    <nd ref='-101804' />
+    <nd ref='-101805' />
+    <nd ref='-101794' />
+    <nd ref='-101841' />
+    <nd ref='-101842' />
+    <nd ref='-101843' />
+    <nd ref='-101840' />
+    <tag k='addr:housenumber' v='৫৭৭' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৩০৫' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='দাগ' v='৫৯২' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক দাগ' v='৫৭৭' />
+  </way>
+  <way id='-102037' action='modify' visible='true'>
+    <nd ref='-101971' />
+    <nd ref='-101972' />
+    <nd ref='-101973' />
+    <nd ref='-101974' />
+    <nd ref='-101971' />
+    <tag k='addr:housenumber' v='৫৪৩' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৫৯' />
+    <tag k='জমির পরিমাণ' v='৬০০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='দাগ' v='৪৮০,৪৮১' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক খতিয়ান' v='৫৬' />
+    <tag k='সাবেক দাগ' v='৫৪৩' />
+  </way>
+  <way id='-102041' action='modify' visible='true'>
+    <nd ref='-101976' />
+    <nd ref='-101977' />
+    <nd ref='-101978' />
+    <nd ref='-101979' />
+    <nd ref='-101980' />
+    <nd ref='-101981' />
+    <nd ref='-101982' />
+    <nd ref='-101983' />
+    <nd ref='-101984' />
+    <nd ref='-101985' />
+    <nd ref='-101986' />
+    <nd ref='-101976' />
+    <tag k='addr:housenumber' v='৪১৬' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৪১' />
+    <tag k='জমির পরিমাণ' v='৩৯০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২১' />
+    <tag k='দাগ' v='৩৪০' />
+    <tag k='মৌজা' v='দক্ষিন লক্ষিপুর' />
+    <tag k='সাবেক খতিয়ান' v='৩৫' />
+    <tag k='সাবেক দাগ' v='৪১৬' />
+  </way>
+  <way id='-102052' action='modify' visible='true'>
+    <nd ref='-101982' />
+    <nd ref='-101987' />
+    <nd ref='-101988' />
+    <nd ref='-101989' />
+    <nd ref='-101990' />
+    <nd ref='-101991' />
+    <nd ref='-101992' />
+    <nd ref='-102002' />
+    <nd ref='-101993' />
+    <nd ref='-101994' />
+    <nd ref='-101995' />
+    <nd ref='-101986' />
+    <nd ref='-101985' />
+    <nd ref='-101984' />
+    <nd ref='-101983' />
+    <nd ref='-101982' />
+    <tag k='addr:housenumber' v='৪১৭' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৪১' />
+    <tag k='জমির পরিমাণ' v='৯০০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২১' />
+    <tag k='দাগ' v='৩৪১' />
+    <tag k='মৌজা' v='দক্ষিন লক্ষিপুর' />
+    <tag k='সাবেক খতিয়ান' v='৩৪' />
+    <tag k='সাবেক দাগ' v='৪১৭' />
+  </way>
+  <way id='-102075' action='modify' visible='true'>
+    <nd ref='-102002' />
+    <nd ref='-102003' />
+    <nd ref='-102004' />
+    <nd ref='-102005' />
+    <nd ref='-102021' />
+    <nd ref='-102006' />
+    <nd ref='-102007' />
+    <nd ref='-102008' />
+    <nd ref='-102009' />
+    <nd ref='-102010' />
+    <nd ref='-102011' />
+    <nd ref='-101993' />
+    <nd ref='-102002' />
+    <tag k='addr:housenumber' v='৫৬৫' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৫৯' />
+    <tag k='জমির পরিমাণ' v='৩০০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='দাগ' v='৪৯৬' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক খতিয়ান' v='৬০' />
+    <tag k='সাবেক দাগ' v='৫৬৫' />
+  </way>
+  <way id='-102105' action='modify' visible='true'>
+    <nd ref='-102038' />
+    <nd ref='-102037' />
+    <nd ref='-102032' />
+    <nd ref='-102033' />
+    <nd ref='-102034' />
+    <nd ref='-102035' />
+    <nd ref='-102038' />
+    <tag k='addr:housenumber' v='৭৭' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৫৯' />
+    <tag k='জমির পরিমাণ' v='১১০০' />
+    <tag k='জমির শ্রেনী' v='অকৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='দাগ' v='১৩৬' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক খতিয়ান' v='৯৬' />
+    <tag k='সাবেক দাগ' v='৭৭' />
+  </way>
+  <way id='-102120' action='modify' visible='true'>
+    <nd ref='-102038' />
+    <nd ref='-102036' />
+    <nd ref='-102031' />
+    <nd ref='-102037' />
+    <nd ref='-102038' />
+    <tag k='addr:housenumber' v='৭৬' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৫৯' />
+    <tag k='জমির শ্রেনী' v='অকৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক দাগ' v='৭৬' />
+  </way>
+  <way id='-102149' action='modify' visible='true'>
+    <nd ref='-102035' />
+    <nd ref='-102074' />
+    <nd ref='-102067' />
+    <nd ref='-102068' />
+    <nd ref='-102034' />
+    <nd ref='-102035' />
+    <tag k='addr:housenumber' v='৭৮' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৫৯' />
+    <tag k='জমির পরিমাণ' v='১৬০০' />
+    <tag k='জমির শ্রেনী' v='অকৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='দাগ' v='১৩৭' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক খতিয়ান' v='৫১' />
+    <tag k='সাবেক দাগ' v='৭৮' />
+  </way>
+  <way id='-102153' action='modify' visible='true'>
+    <nd ref='-102067' />
+    <nd ref='-102069' />
+    <nd ref='-102070' />
+    <nd ref='-102071' />
+    <nd ref='-102068' />
+    <nd ref='-102067' />
+    <tag k='addr:housenumber' v='৮৮' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৫৯' />
+    <tag k='জমির পরিমাণ' v='১২০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='দাগ' v='৩৭৪' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক খতিয়ান' v='৯৪' />
+    <tag k='সাবেক দাগ' v='৮৮' />
+  </way>
+  <way id='-102158' action='modify' visible='true'>
+    <nd ref='-102035' />
+    <nd ref='-102072' />
+    <nd ref='-102073' />
+    <nd ref='-102074' />
+    <nd ref='-102035' />
+    <tag k='addr:housenumber' v='৮০' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৫৯' />
+    <tag k='জমির পরিমাণ' v='০২০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='দাগ' v='৩৭৬' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক খতিয়ান' v='৯৪' />
+    <tag k='সাবেক দাগ' v='৮০' />
+  </way>
+  <way id='-102163' action='modify' visible='true'>
+    <nd ref='-102074' />
+    <nd ref='-102067' />
+    <nd ref='-102069' />
+    <nd ref='-102073' />
+    <nd ref='-102074' />
+    <tag k='addr:housenumber' v='৭৯' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৫৯' />
+    <tag k='জমির পরিমাণ' v='০৫০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='দাগ' v='৩৭৮' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক খতিয়ান' v='২৪১' />
+    <tag k='সাবেক দাগ' v='৭৯' />
+  </way>
+  <way id='-102240' action='modify' visible='true'>
+    <nd ref='-101760' />
+    <nd ref='-102132' />
+    <nd ref='-102127' />
+    <nd ref='-101766' />
+    <nd ref='-101760' />
+    <tag k='addr:housenumber' v='৫৭৭' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৩০৫' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='দাগ' v='৫৯২' />
+    <tag k='মৌজা' v='সারংপুর' />
+    <tag k='সাবেক দাগ' v='৫৭৭' />
+  </way>
+  <way id='-102287' action='modify' visible='true'>
+    <nd ref='-102178' />
+    <nd ref='-102179' />
+    <nd ref='-102180' />
+    <nd ref='-102181' />
+    <nd ref='-102178' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৫৯' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২২' />
+    <tag k='মৌজা' v='সারংপুর' />
+  </way>
+  <way id='-102294' action='modify' visible='true'>
+    <nd ref='-102185' />
+    <nd ref='-102186' />
+    <nd ref='-102187' />
+    <nd ref='-102188' />
+    <nd ref='-102189' />
+    <nd ref='-102190' />
+    <nd ref='-102185' />
+    <tag k='addr:housenumber' v='১৭৭' />
+    <tag k='landuse' v='farmland' />
+    <tag k='অকৃষি' v='আবাসিক' />
+    <tag k='খতিয়ান' v='১৪১' />
+    <tag k='জমির পরিমাণ' v='০৬১২' />
+    <tag k='জমির শ্রেনী' v='অকৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২৪' />
+    <tag k='দাগ' v='১০৬৭,১০৬৮,১০৬৯' />
+    <tag k='মৌজা' v='বিরামপুর' />
+    <tag k='সাবেক খতিয়ান' v='২৯৭, ২৯৮, ৩৫৫' />
+    <tag k='সাবেক দাগ' v='১৭৭' />
+    <tag k='সিট' v='৯৯৯' />
+    <tag k='স্থানীয় নাম' v='বাড়ী' />
+  </way>
+  <way id='-102300' action='modify' visible='true'>
+    <nd ref='-102191' />
+    <nd ref='-102192' />
+    <nd ref='-102193' />
+    <nd ref='-102194' />
+    <nd ref='-102195' />
+    <nd ref='-102196' />
+    <nd ref='-102197' />
+    <nd ref='-102191' />
+    <tag k='addr:housenumber' v='১৮৩' />
+    <tag k='landuse' v='farmland' />
+    <tag k='অকৃষি' v='বাণিজ্যিক' />
+    <tag k='খতিয়ান' v='১৪১' />
+    <tag k='জমির পরিমাণ' v='০৪১৯' />
+    <tag k='জমির শ্রেনী' v='অকৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১২৪' />
+    <tag k='দাগ' v='১০৫৭' />
+    <tag k='মৌজা' v='বিরামপুর' />
+    <tag k='সাবেক খতিয়ান' v='২৯৭, ২৯৮, ৩৫৫' />
+    <tag k='সাবেক দাগ' v='১৮৩' />
+    <tag k='সিট' v='৯৯৯' />
+    <tag k='স্থানীয় নাম' v='দোকান' />
+  </way>
+  <way id='-102326' action='modify' visible='true'>
+    <nd ref='-102209' />
+    <nd ref='-102210' />
+    <nd ref='-102211' />
+    <nd ref='-102212' />
+    <nd ref='-102213' />
+    <nd ref='-102214' />
+    <nd ref='-102231' />
+    <nd ref='-102240' />
+    <nd ref='-102225' />
+    <nd ref='-102215' />
+    <nd ref='-102583' />
+    <nd ref='-102241' />
+    <nd ref='-102209' />
+    <tag k='addr:housenumber' v='৭১' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৩৩' />
+    <tag k='জমির পরিমাণ' v='৯৭০০' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৫' />
+    <tag k='দাগ' v='১৬৫' />
+    <tag k='মৌজা' v='জোলাগাড়ী' />
+    <tag k='সাবেক দাগ' v='৭১' />
+  </way>
+  <way id='-102361' action='modify' visible='true'>
+    <nd ref='-102209' />
+    <nd ref='-102241' />
+    <nd ref='-102583' />
+    <nd ref='-102243' />
+    <nd ref='-102244' />
+    <nd ref='-102209' />
+    <tag k='addr:housenumber' v='৭১/২৪৮' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৩৪' />
+    <tag k='জমির পরিমাণ' v='৫৭০০' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৫' />
+    <tag k='দাগ' v='১৪৯' />
+    <tag k='মৌজা' v='জোলাগাড়ী' />
+    <tag k='সাবেক দাগ' v='৭১/২৪৮' />
+  </way>
+  <way id='-102403' action='modify' visible='true'>
+    <nd ref='-102281' />
+    <nd ref='-102282' />
+    <nd ref='-102363' />
+    <nd ref='-102283' />
+    <nd ref='-102354' />
+    <nd ref='-102349' />
+    <nd ref='-102342' />
+    <nd ref='-102284' />
+    <nd ref='-102281' />
+    <tag k='addr:housenumber' v='১৮১' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৫' />
+    <tag k='জমির পরিমাণ' v='০৬০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১১০' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৩৯' />
+    <tag k='সাবেক দাগ' v='১৮১' />
+  </way>
+  <way id='-102407' action='modify' visible='true'>
+    <nd ref='-102286' />
+    <nd ref='-102287' />
+    <nd ref='-102288' />
+    <nd ref='-102289' />
+    <nd ref='-102286' />
+    <tag k='addr:housenumber' v='১৭২' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৫' />
+    <tag k='জমির পরিমাণ' v='৪৯০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১১৮' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৩৯' />
+    <tag k='সাবেক দাগ' v='১৭২' />
+  </way>
+  <way id='-102412' action='modify' visible='true'>
+    <nd ref='-102291' />
+    <nd ref='-102292' />
+    <nd ref='-102293' />
+    <nd ref='-102294' />
+    <nd ref='-102295' />
+    <nd ref='-102296' />
+    <nd ref='-102291' />
+    <tag k='addr:housenumber' v='২৭৪' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='২১' />
+    <tag k='জমির পরিমাণ' v='২৩০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১৫১' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক দাগ' v='২৭৪' />
+  </way>
+  <way id='-102490' action='modify' visible='true'>
+    <nd ref='-102370' />
+    <nd ref='-102371' />
+    <nd ref='-102372' />
+    <nd ref='-102381' />
+    <nd ref='-102373' />
+    <nd ref='-102370' />
+    <tag k='addr:housenumber' v='১৬৭' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৫' />
+    <tag k='জমির পরিমাণ' v='৩০০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='৩৬০,৩৬১' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৩৯' />
+    <tag k='সাবেক দাগ' v='১৬৭' />
+  </way>
+  <way id='-102502' action='modify' visible='true'>
+    <nd ref='-102382' />
+    <nd ref='-102383' />
+    <nd ref='-102384' />
+    <nd ref='-102385' />
+    <nd ref='-102382' />
+    <tag k='addr:housenumber' v='১৫৮' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৫' />
+    <tag k='জমির পরিমাণ' v='৩০০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='৩৪৬' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৮৮' />
+    <tag k='সাবেক দাগ' v='১৫৮' />
+  </way>
+  <way id='-102506' action='modify' visible='true'>
+    <nd ref='-102386' />
+    <nd ref='-102387' />
+    <nd ref='-102388' />
+    <nd ref='-102389' />
+    <nd ref='-102390' />
+    <nd ref='-102391' />
+    <nd ref='-102386' />
+    <tag k='addr:housenumber' v='৬৮' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='১৪০' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='৩৭১' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='২১' />
+    <tag k='সাবেক দাগ' v='৬৮' />
+  </way>
+  <way id='-102514' action='modify' visible='true'>
+    <nd ref='-102394' />
+    <nd ref='-102395' />
+    <nd ref='-102396' />
+    <nd ref='-102397' />
+    <nd ref='-102398' />
+    <nd ref='-102394' />
+    <tag k='addr:housenumber' v='২৬৫' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৫' />
+    <tag k='জমির পরিমাণ' v='১৪০০' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১২৬' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক দাগ' v='২৬৫' />
+  </way>
+  <way id='-102519' action='modify' visible='true'>
+    <nd ref='-102398' />
+    <nd ref='-102399' />
+    <nd ref='-102400' />
+    <nd ref='-102401' />
+    <nd ref='-102402' />
+    <nd ref='-102403' />
+    <nd ref='-102404' />
+    <nd ref='-102405' />
+    <nd ref='-102406' />
+    <nd ref='-102407' />
+    <nd ref='-102397' />
+    <nd ref='-102398' />
+    <tag k='addr:housenumber' v='২৬৭' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৫' />
+    <tag k='জমির পরিমাণ' v='১৩০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১২৫' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৮১' />
+    <tag k='সাবেক দাগ' v='২৬৭' />
+  </way>
+  <way id='-102530' action='modify' visible='true'>
+    <nd ref='-102395' />
+    <nd ref='-102408' />
+    <nd ref='-102409' />
+    <nd ref='-102410' />
+    <nd ref='-102411' />
+    <nd ref='-102412' />
+    <nd ref='-102405' />
+    <nd ref='-102406' />
+    <nd ref='-102407' />
+    <nd ref='-102397' />
+    <nd ref='-102396' />
+    <nd ref='-102395' />
+    <tag k='addr:housenumber' v='২৬৪' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৫' />
+    <tag k='জমির পরিমাণ' v='২৩০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১৩১' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৮৮' />
+    <tag k='সাবেক দাগ' v='২৬৪' />
+  </way>
+  <way id='-102543' action='modify' visible='true'>
+    <nd ref='-102408' />
+    <nd ref='-102409' />
+    <nd ref='-102410' />
+    <nd ref='-102411' />
+    <nd ref='-102413' />
+    <nd ref='-102414' />
+    <nd ref='-102415' />
+    <nd ref='-102416' />
+    <nd ref='-102417' />
+    <nd ref='-102418' />
+    <nd ref='-102419' />
+    <nd ref='-102420' />
+    <nd ref='-102408' />
+    <tag k='addr:housenumber' v='২৬৮' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৫' />
+    <tag k='জমির পরিমাণ' v='৩৮০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১৩৫' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৮১' />
+    <tag k='সাবেক দাগ' v='২৬৮' />
+  </way>
+  <way id='-102557' action='modify' visible='true'>
+    <nd ref='-102415' />
+    <nd ref='-102423' />
+    <nd ref='-102424' />
+    <nd ref='-102425' />
+    <nd ref='-102426' />
+    <nd ref='-102417' />
+    <nd ref='-102416' />
+    <nd ref='-102415' />
+    <tag k='addr:housenumber' v='২৯৯' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৫' />
+    <tag k='জমির পরিমাণ' v='৩৩০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১৪৬' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৮৮' />
+    <tag k='সাবেক দাগ' v='২৯৯' />
+  </way>
+  <way id='-102579' action='modify' visible='true'>
+    <nd ref='-102442' />
+    <nd ref='-102443' />
+    <nd ref='-102444' />
+    <nd ref='-102445' />
+    <nd ref='-102446' />
+    <nd ref='-102447' />
+    <nd ref='-102448' />
+    <nd ref='-102449' />
+    <nd ref='-102450' />
+    <nd ref='-102451' />
+    <nd ref='-102496' />
+    <nd ref='-102442' />
+    <tag k='addr:housenumber' v='২৭১' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৪৩' />
+    <tag k='জমির পরিমাণ' v='০৮০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১৪৮' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৪১' />
+    <tag k='সাবেক দাগ' v='২৭১' />
+  </way>
+  <way id='-102591' action='modify' visible='true'>
+    <nd ref='-102454' />
+    <nd ref='-102465' />
+    <nd ref='-102417' />
+    <nd ref='-102426' />
+    <nd ref='-102425' />
+    <nd ref='-102455' />
+    <nd ref='-102445' />
+    <nd ref='-102444' />
+    <nd ref='-102443' />
+    <nd ref='-102442' />
+    <nd ref='-102456' />
+    <nd ref='-102454' />
+    <tag k='addr:housenumber' v='২৭০' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='২১' />
+    <tag k='জমির পরিমাণ' v='৪৬০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১৪৭' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক দাগ' v='২৭০' />
+  </way>
+  <way id='-102625' action='modify' visible='true'>
+    <nd ref='-102479' />
+    <nd ref='-102491' />
+    <nd ref='-102480' />
+    <nd ref='-102460' />
+    <nd ref='-102481' />
+    <nd ref='-102482' />
+    <nd ref='-102479' />
+    <tag k='addr:housenumber' v='২৬৪' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৫' />
+    <tag k='জমির পরিমাণ' v='৩২০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১৩৩' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৮৮' />
+    <tag k='সাবেক দাগ' v='২৬৪' />
+  </way>
+  <way id='-102632' action='modify' visible='true'>
+    <nd ref='-102483' />
+    <nd ref='-102484' />
+    <nd ref='-102485' />
+    <nd ref='-102486' />
+    <nd ref='-102487' />
+    <nd ref='-102488' />
+    <nd ref='-102483' />
+    <tag k='addr:housenumber' v='২৬১' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৪' />
+    <tag k='জমির পরিমাণ' v='০২০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১৭০' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক দাগ' v='২৬১' />
+  </way>
+  <way id='-102639' action='modify' visible='true'>
+    <nd ref='-102480' />
+    <nd ref='-102454' />
+    <nd ref='-102456' />
+    <nd ref='-102490' />
+    <nd ref='-102491' />
+    <nd ref='-102480' />
+    <tag k='addr:housenumber' v='২৬১' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৭৪' />
+    <tag k='জমির পরিমাণ' v='৩৪০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১৬৮' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৮' />
+    <tag k='সাবেক দাগ' v='২৬১' />
+  </way>
+  <way id='-102648' action='modify' visible='true'>
+    <nd ref='-102490' />
+    <nd ref='-102495' />
+    <nd ref='-102496' />
+    <nd ref='-102442' />
+    <nd ref='-102456' />
+    <nd ref='-102490' />
+    <tag k='addr:housenumber' v='২৬০' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৪৩' />
+    <tag k='জমির পরিমাণ' v='৩৩০০' />
+    <tag k='জমির শ্রেনী' v='কৃষি' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৬' />
+    <tag k='দাগ' v='১৬৭' />
+    <tag k='মৌজা' v='তৈয়বপুর' />
+    <tag k='সাবেক খতিয়ান' v='৬৮' />
+    <tag k='সাবেক দাগ' v='২৬০' />
+  </way>
+  <way id='-105111' action='modify' visible='true'>
+    <nd ref='-102214' />
+    <nd ref='-102679' />
+    <nd ref='-102240' />
+    <nd ref='-102231' />
+    <nd ref='-102214' />
+    <tag k='addr:housenumber' v='৭০' />
+    <tag k='landuse' v='farmland' />
+    <tag k='খতিয়ান' v='৩৪' />
+    <tag k='জমির পরিমাণ' v='১০০০' />
+    <tag k='জরিপের নাম' v='আর এস' />
+    <tag k='জে,এল' v='১৪৫' />
+    <tag k='দাগ' v='১৬৪' />
+    <tag k='মৌজা' v='জোলাগাড়ী' />
+    <tag k='সাবেক দাগ' v='৭০' />
+  </way>
+</osm>
