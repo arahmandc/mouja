@@ -67,14 +67,29 @@
             }
             map.setMaxBounds(map.getBounds());
         }
-        var layer_GoogleSatellite_0 = L.tileLayer('Tiles/{z}/{x}/{y}.png', {
+        var layer_GoogleSatellite_0 = L.tileLayer('https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
             minZoom:1,
             maxZoom:19,
             opacity: 1.0,
             attribution: '',
         });
+
+ 
+        
+
+
+
+
         layer_GoogleSatellite_0;
-        map.addLayer(layer_GoogleSatellite_0).setView([25.3738, 88.9565], 11);;
+
+        //map.addLayer(layer_GoogleSatellite_0).setView([25.3738, 88.9565], 11);
+        
+        map.addLayer(layer_GoogleSatellite_0).setView([25.3738, 88.9565], 11);
+
+
+       // layerControl = L.control.layers(layer_GoogleSatellite_0, layer_GoogleSatellite_1).addTo(map);
+
+
         function pop_Merged_1(feature, layer) {
             layer.on({
                 mouseout: function(e) {
@@ -141,8 +156,7 @@
                 lineJoin: 'miter',
                 weight: 1.0, 
                 fill: true,
-                fillOpacity: 1,
-                fillColor: 'rgba(229,182,54,0.0)',
+                fillColor: 'red',
             }
         }
         map.createPane('pane_Merged_1');
@@ -168,6 +182,7 @@
 
 
 map.addControl( new L.Control.Compass({position: "topleft", title: "Compass"}) );
+
 
 L.control.locate().addTo(map);
 
